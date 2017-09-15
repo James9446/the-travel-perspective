@@ -1062,6 +1062,8 @@ a:hover .lnk-icon-right {
   background-attachment: fixed;
   position: relative;
 }
+
+/* changed position rule */
 .fh5co-project-style-2 .fh5co-projects ul li a {
   width: 100%;
   position: relative;
